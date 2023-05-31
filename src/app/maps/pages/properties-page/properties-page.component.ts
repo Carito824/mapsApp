@@ -14,6 +14,7 @@ interface House {
 })
 export class PropertiesPageComponent {
 
+  
   public houses: House[] = [
     {
       title: 'Casa residencial, Canadá',
