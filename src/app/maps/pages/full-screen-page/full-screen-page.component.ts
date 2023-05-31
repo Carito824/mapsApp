@@ -1,6 +1,6 @@
-import { AfterViewInit, Component, ViewChild } from '@angular/core';
+import { AfterViewInit, Component, ViewChild, ElementRef } from '@angular/core';
 import {Map} from 'mapbox-gl';
-import { ElementRef } from '@angular/core';
+
 
 @Component({
   templateUrl: './full-screen-page.component.html',
